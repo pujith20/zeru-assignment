@@ -91,8 +91,7 @@ Every incoming API request is parsed using a Python script for log analysis (e.g
 🚀 Setup Instructions
 1. Clone the Repo
 
-git clone https://github.com/your-username/eigenlayer-restaking-api.git
-cd eigenlayer-restaking-api
+git clone https://github.com/pujith20/zeru-assignment.git
 
 2. Install Dependencies: npm install
 
@@ -141,7 +140,7 @@ No actual wallet connection/authentication — this is a public API.
 
 Log parsing does not affect functionality — it's purely informative.
 
-
+Deployed Link: https://zeru-assignment-jtl0.onrender.com
 
 🧑‍💻 Author
 Made by naga Pujith Kumar
